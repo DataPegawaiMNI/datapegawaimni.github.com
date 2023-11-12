@@ -1,0 +1,137 @@
+*,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: white;
+}
+
+.container-navbar {
+  background-color: black;
+  /* width: 50px;
+  height: 50px; */
+}
+
+.ul-navbar {
+  display: flex;
+  justify-content: right;
+  height: 70px;
+}
+
+.li-navbar {
+  border: 1px solid white;
+  list-style-type: none;
+  padding: 20px;
+  margin: 5px;
+  color: white;
+}
+
+.container-content {
+  background-color: white;
+}
+
+.img-content {
+  width: 100%;
+  height: 90%;
+} @import url('https://fonts.googleapis.com/css2/family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins' sans-serif
+}
+.contact 
+{
+  position: relative;
+  min-height: 100vh;
+  padding: 50px 50px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  background: url(bg.jpg);
+  background-size: cover;
+}
+.contact .content
+{
+  max-width: 800px;
+  text-align: center;
+}
+.container-content
+{
+  font-size: 36px;
+  font-weight: 500;
+  color: #fff;
+}
+
+.form-input{
+  width: 300px;
+  margin: 0 auto;
+}
+* {  
+    margin: 0;
+    padding: 0;
+    text-decoration: none;   
+}
+
+body {
+    background position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+ 
+.contact {
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 30%;
+    border-radius: 5px;
+    border: 0px solid ;
+    background-color ;
+    padding: 20px;
+}
+.title {
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+}
+
+hr {
+    margin-bottom: 20px;
+}
+
+.form.input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid rgb(225, 235, 225);
+    border-radius: 2px;
+    box-sizing: 6px;
+    margin-bottom: 16px;
+}
+
+textarea {
+    height: 100px:
+}
+
+.send {
+    color:white
+    background-color: #04AA6D;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 50%;
+    margin : 0 auto;
+}
+
+.send:hover {
+    background-color: rgb(18, 141, 24);
+}
+
+.pegawai .now .img-container img{
+  width: 800px;
+}
+
+     
